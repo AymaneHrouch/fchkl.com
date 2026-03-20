@@ -2,7 +2,7 @@
 
 ## What is this project
 
-`fchkl.com` is the landing page for the **fchkl universe** — a personal creative ecosystem by Aymane. It's a single `index.html` that serves as a hub pointing to all fchkl subdomains.
+`fchkl.com` is the landing page for the **fchkl universe** — a personal creative ecosystem by Aymane. It serves as a hub pointing to all fchkl subdomains.
 
 The name "fchkl" is Moroccan Darija slang. The vibe is **artistic chaos** — dark, atmospheric, slightly absurdist, bilingual (English + Darija).
 
@@ -19,7 +19,9 @@ The name "fchkl" is Moroccan Darija slang. The vibe is **artistic chaos** — da
 
 ```
 fchkl.com/
-└── index.html       # The entire site — single file, no build step
+├── index.html   # Markup only
+├── style.css    # All styles
+└── script.js    # Cursor + canvas background animation
 ```
 
 No framework. No dependencies. Pure HTML/CSS/JS.
@@ -31,7 +33,7 @@ No framework. No dependencies. Pure HTML/CSS/JS.
 **Colors**:
 - Background: `#0a0a08` (near-black, warm)
 - Primary text: `#e8e4d4` (warm off-white)
-- Muted text: `#6e6b5a`, `#9e9a88`
+- Muted text: `#6e6b5a`, `#9e9a88`, `#999788` (card desc)
 - Accent gold: `#f0c060` (used for badge, cursor)
 - Card accents per portal: tswira `#60b0f0`, dirassa `#c060f0`, aymane `#60f0a0`, unknown `#f06060`
 
