@@ -4,7 +4,7 @@
 
 `fchkl.com` is the landing page for the **fchkl universe** — a personal creative ecosystem by Aymane. It serves as a hub pointing to all fchkl subdomains.
 
-The name "fchkl" is Moroccan Darija slang. The vibe is **artistic chaos** — dark, atmospheric, slightly absurdist, bilingual (English + Darija).
+The name "fchkl" (/fʃkl/) is Moroccan Darija slang meaning **special, different, one of a kind** — someone or something genuinely original, not a replica, that makes you think. It's an adjective used as a compliment. The vibe is **artistic chaos** — dark, atmospheric, slightly absurdist, bilingual (English + Darija).
 
 ## Current subdomains
 
